@@ -13,7 +13,7 @@ img {
     @extend .img-fluid;
 }
 
-
+/*
 .accordion-button:not(.collapsed) {
  color:#FFFFFF;
  background-color:#205a86;
@@ -22,8 +22,8 @@ img {
 
 .accordion-button {
  background-color:#f8f9fa;
-
 }
+*/
 
 header .navbar {
     .navbar-brand {
@@ -58,15 +58,3 @@ header .navbar {
             font-size: 1.1rem;
         }
     }
-    .card-text {
-        font-size: 0.9rem;
-    }
-
-}
-.navigation-tiles {
-    .card {
-        .card-header {
-            background-color: #5ac3b1;       
-        }
-    }
-}
