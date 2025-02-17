@@ -36,10 +36,10 @@ header .navbar {
 }
 
 .navigation-tiles {
-/*    .card {
+    .card {
         background-color: $light;
         color: $dark;
-    }*/
+    }
     .card:hover {
         box-shadow: $box-shadow;
         background-color: $primary;
@@ -48,14 +48,6 @@ header .navbar {
         h3 {
             color: $dark;
             font-size: 1.2rem;
-        }
-    }
-    .card-header {
-        a:hover {
-            text-decoration: none;
-        }
-        h3 {
-            font-size: 1.1rem;
         }
     }
 }
