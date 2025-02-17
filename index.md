@@ -5,6 +5,9 @@ toc: false
 
 ## Quick access links
 
+{% include tiles-simple.html col = "2" %}
+
+
 <div class="grid gap-2" style="box-sizing: content-box;">
     <a class="btn btn-primary col-lg-5 col-xl-3 col-xxl-3 col-md-5 col-sm-8 col-8" href="https://docs.google.com/forms/d/e/1FAIpQLSf9UVEuhbAsbvVzTEvvE9mLoietryb7e3sDmv74Xhl-1YWj2Q/viewform?usp=sf_link" style="margin:10px;  padding:10px;">Request New Project</a>
     <a class="btn btn-primary col-lg-5 col-xl-3 col-xxl-3 col-md-5 col-sm-8 col-8" href="https://docs.google.com/forms/d/e/1FAIpQLSfzHJajEKTnGuYWb1gLRR2nlUExLIRM7qSGy_hhbiCKB3KX2Q/viewform?usp=sf_link" style="margin:10px;  padding: 10px 0px 10px 0px;">Request Additional Resources</a>
