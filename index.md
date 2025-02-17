@@ -7,6 +7,7 @@ toc: false
 
 {% include tiles-simple.html col = "2" %}
 
+{% include section-navigation-tiles.html %}
 
 ## About ABLeS
 
