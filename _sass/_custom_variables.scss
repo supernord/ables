@@ -30,13 +30,18 @@ $sidebar-color-active: $white;
 $toc-bg: $light;
 
 /*-----Section navigation tiles-----*/
-$nav-card-bg: $white;
+//$nav-card-bg: $white;
 $nav-card-header-bg: $dark;
 $nav-card-header-color: $white;
 $nav-card-badge-color: $body-color;
 $nav-card-badge-bg: $light;
 $nav-card-badge-color-hover: $white;
 $nav-card-badge-bg-hover: $primary;
+
+$nav-card-bg: $primary;
+$nav-card-color: $dark;
+$nav-card-bg-hover: $primary;
+$nav-card-color-hover: $white;
 
 /*-----More information tiles-----*/
 $info-card-bg: $light;
