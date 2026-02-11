@@ -13,7 +13,7 @@ Click on any event below for more information, and stay tuned **— new events w
 
 {% include events.html %}
 
-## News from ABLeS
+## News
 
 {% include news.html %}
 
