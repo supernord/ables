@@ -37,4 +37,4 @@ Gustafsson, Ove Johan Ragnar, Al Bkhetan, Ziad, Francis, Rhys & Manos, Steven. (
 
 Authorship is NOT expected for routine / simple services provided (e.g. tool installation) and an acknowledgement is sufficient in these cases. We approach authorship issues with a generous spirit and aim to fairly attribute contributions.
 
-In some cases, it may be appropriate for ABLeS support staff, or specialists at NCI or Pawsey to be co-authors on publications. Examples of this include when these specialists provide significant input into the publication, including a significant contribution to method / protocol / pipeline development, study design, data and results analysis, or interpretation.
+In some cases, it may be appropriate for ABLeS support staff, or specialists at NCI or Pawsey, to be co-authors on publications. Examples of this include when these specialists provide significant input into the publication, including a significant contribution to method / protocol / pipeline development, study design, data and results analysis, or interpretation.
