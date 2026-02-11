@@ -2,16 +2,22 @@
 subitems:
   - title: Home
     url: /index
+  - title: About
+    url: /about
   - title: News & events
     url: /news-events
-  - title: Eligibility
-    url: /eligibility
   - title: Getting started
-    url: /projects_allocations
-  - title: Resources & Training
-    url: /resources
-  - title: Available software and data
-    url: /if89
+    subitems:
+      - title: Eligibility
+        url: /eligibility
+      - title: Projects
+        url: /projects_allocations
+      - title: Resources & Training
+        url: /resources
+      - title: Available software and data
+        url: /if89
+  - title: Sharing project outputs
+    url: sharing
   - title: ABLeS participants
     url: /participants
   - title: Acknowledging ABLeS
