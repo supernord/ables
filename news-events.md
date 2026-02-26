@@ -13,6 +13,9 @@ Click on any event below for more information, and stay tuned **— new events w
 
 {% include events.html %}
 
+If you want to have a look at what happened in our past events, explore the [**meeting notes here**](https://docs.google.com/document/d/1U3gn5uE_2M4RN4LR_m93q52ME_T6Oaz2loWTE_3hOt0).
+
+
 ## News
 
 {% include news.html %}
