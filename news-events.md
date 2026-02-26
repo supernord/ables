@@ -21,6 +21,8 @@ If you want to have a look at what happened in our past events, explore the [**m
 
 ## News
 
+Showcase your ABLeS outcomes and be featured in Australian BioCommons news! See how other researchers are using ABLeS to power their work and share your success to inspire the community.
+
 {% include news.html %}
 
 <br/>
