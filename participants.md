@@ -33,9 +33,9 @@ toc: false
 
 ## In progress projects
 
-{% include section-navigation-tiles-mod.html type="ABLeS Participant" search=true col="4" %}
+{% include section-navigation-tiles.html type="ABLeS Participant" search=true col="4" %}
 
 
 ## Completed projects
 
-{% include section-navigation-tiles-mod.html type="ABLeS Participant - Completed" search=true col="4" %}
+{% include section-navigation-tiles.html type="ABLeS Participant - Completed" search=true col="4" %}
