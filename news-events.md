@@ -12,7 +12,7 @@ The *Australian BioCommons training program* also offers a range of workshops an
 
 #### Upcoming Events
 
-Click on any event below for more information, and stay tuned **— new events will be added here as they are announced**. We look forward to seeing you at a future ABLeS meeting!
+Stay tuned **— new events will be added here as they are announced**. We look forward to seeing you at a future ABLeS meeting!
 
 {% include events.html %}
 
