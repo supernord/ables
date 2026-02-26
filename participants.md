@@ -33,6 +33,8 @@ toc: false
 
 ## In progress projects
 
+ABLeS supports projects spanning multiple disciplines and research domains across Australia. Search the projects below to discover what’s happening across the community.
+
 {% include section-navigation-tiles.html type="ABLeS Participant" search=true col="4" %}
 
 
