@@ -10,7 +10,7 @@ toc: false
     <p>The ABLeS program supports data-driven bioinformatics by offering access to:</p>
         <ul>
             <li>Computational and data infrastructure</li>
-            <li>Specialized expertise</li>
+            <li>Specialised expertise</li>
             <li>Support for adopting best practices and effectively sharing outputs</li>
             <li>A community-driven repository of bioinformatics software (including tools and workflows).</li>
         </ul>
